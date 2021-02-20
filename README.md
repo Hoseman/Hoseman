@@ -4,10 +4,6 @@ A meticulous front end developer with 8 years agency experience in web developme
 
 You can visit my website at: https://www.achcreative.info
 
-<div style="width:30%; float:left; margin-left:1%;">xxx</div>
-<div style="width:30%; float:left; margin-left:1%;">xxx</div>
-<div style="width:30%; float:left; margin-left:1%;">xxx</div>
-
 <!--
 **Hoseman/Hoseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
