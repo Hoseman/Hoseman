@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Andrew, Front End Developer
+
+A meticulous front end developer with 8 years agency experience in web development and with a passion for Wordpress theme development. I have good knowledge of HTML, CSS, Sass, jQuery, PHP and MySQL. I am also from a graphic design background, I have worked in the creative industry for 30 years.
+
+You can visit my website at: https://www.achcreative.info
 
 <!--
 **Hoseman/Hoseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
